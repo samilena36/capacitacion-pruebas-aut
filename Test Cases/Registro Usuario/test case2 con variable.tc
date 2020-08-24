@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test case2 con variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6666dc2-f0d2-44c6-a602-25aa1b0394cf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1bc9b52-1821-4f6e-8de0-b82a00bf29a3</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>09879abb-0c1c-4609-a30b-e73bef1bc542</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>
